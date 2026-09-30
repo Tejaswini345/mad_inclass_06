@@ -1,6 +1,5 @@
-// In-Class Activity 06 — Drawing with Flutter
-// Student: [Your Full Name]
-// Date: September 29, 2026
+// In-Class Activity 06 
+// Student:Tejaswini Kolliboni
 
 import 'dart:math' show Random, max, pi;
 
